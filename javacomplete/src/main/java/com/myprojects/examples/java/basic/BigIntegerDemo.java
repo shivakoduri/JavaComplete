@@ -6,7 +6,6 @@ package com.myprojects.examples.java.basic;
 import java.math.BigInteger;
 
 /**
- * @author shiva koduri
  * 
  * Java Program to calculate factorial of large numbers using BigInteger class.
  * BigInteger class is also immutable, so any modification e.g. addition, 

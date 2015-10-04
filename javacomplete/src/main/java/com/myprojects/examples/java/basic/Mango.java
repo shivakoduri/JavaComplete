@@ -6,7 +6,6 @@ package com.myprojects.examples.java.basic;
 import java.awt.Color;
 
 /**
- * @author shiva koduri
  * A concrete class to extend Fruit, since Mango IS-A Fruit
  * extending Fruit is justified. it got all properties of
  * fruit, and it defines how to prepare mango for eating.

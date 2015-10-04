@@ -6,8 +6,6 @@ package com.myprojects.examples.java.basic;
 import java.awt.Color;
 
 /**
- * @author shiva koduri
- *
  * Abstract class to represent Fruit, defined only essential
  * properties of Fruit here and make things abstract which
  * is different for different fruits.

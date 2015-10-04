@@ -6,7 +6,6 @@ package com.myprojects.examples.java.basic;
 import java.awt.Color;
 
 /**
- * @author shiva koduri
  *
  */
 public class Banana extends Fruit {

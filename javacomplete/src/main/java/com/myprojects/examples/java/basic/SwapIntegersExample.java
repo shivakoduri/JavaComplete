@@ -4,7 +4,6 @@
 package com.myprojects.examples.java.basic;
 
 /**
- * @author shiva koduri
  *
  */
 public class SwapIntegersExample {

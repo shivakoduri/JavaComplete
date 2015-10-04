@@ -7,7 +7,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author shiva koduri
  *
  */
 public class PrimitiveAndReferenceType {

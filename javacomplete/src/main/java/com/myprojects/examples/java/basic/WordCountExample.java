@@ -20,7 +20,6 @@ import java.util.Set;
 import java.util.regex.Pattern;
 
 /**
- * @author shiva koduri
  *
  */
 public class WordCountExample {

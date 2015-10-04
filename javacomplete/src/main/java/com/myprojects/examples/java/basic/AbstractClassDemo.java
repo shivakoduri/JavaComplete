@@ -9,7 +9,6 @@ import java.util.Collection;
 import java.util.List;
 
 /**
- * @author shiva koduri
  * Java Program to demonstrate what is abstract class and abstract method in Java, how to use
  * them, when to use them with a practical example.
  */
